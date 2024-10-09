@@ -1,4 +1,4 @@
- Practical component (lab projects): 50%
+ • Practical component (lab projects): 50%
  
 – Two design projects: introductory (30%) + advanced (70%)
 
