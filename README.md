@@ -16,11 +16,11 @@ graph based codes
 Tipo de avaliação
 Avaliação distribuída com exame final
 Componentes de Avaliação
-Designação	Peso (%)
-Exame	75,00
-Participação presencial	0,00
-Teste	25,00
-Total:	100,00
+Designação	Peso (%)/
+Exame	75,00/
+Participação presencial	0,00/
+Teste	25,00/
+Total:	100,00/
 Componentes de Ocupação
 Designação	Tempo (Horas)
 Estudo autónomo	106,00
